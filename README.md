@@ -1,2 +1,1 @@
-# class24
-html css bootstrap
+# live projacte : https://shakilsquad.github.io/class24/
